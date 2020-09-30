@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package miage.tp.core.exceptions;
+package bourse.miage.tp.core.exceptions;
 
 /**
  *

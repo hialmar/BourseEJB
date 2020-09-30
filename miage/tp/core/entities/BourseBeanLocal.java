@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package miage.tp.core.entities;
+package bourse.miage.tp.core.entities;
 
-import miage.tp.core.exceptions.TitreExistantException;
-import miage.tp.core.exceptions.TitreInconnuException;
+import bourse.miage.tp.core.exceptions.TitreExistantException;
+import bourse.miage.tp.core.exceptions.TitreInconnuException;
 import java.util.Collection;
 import javax.ejb.Local;
 
